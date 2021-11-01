@@ -13,6 +13,7 @@ After activating this plugin, you'll see 2 new Menu items on the left side for S
 and a new Page template option when creating a new page. 
 
 == Features ==
+
 2 new CPTs + custom Taxonomy:
 Stock Recommendation - has access to Ticker Symbol taxonomy which will auto populate the side bar information if info
 exists for it. Title will auto populate the name of the Ticker Symbol associated with it. Has archive page.
@@ -31,6 +32,7 @@ Note: Taxonomy name is used to display on the front end, any way desired, but du
 symbols to be isolated, slug should be only the symbol. Ex: Name: Naxdaq:AAPL needs a slug of just AAPL.
 
 == Description ==
+
 I decided to isolate every aspect of this project in a plugin to allow for it to be dropped into any theme. I used a 
 very generic theme working on this called generic, so it should fit into any theme style wise. There is polishing
 especially around styling and front end tweaks that I would've liked to do, but I wanted to keep to the time constraint 
