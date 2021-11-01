@@ -1,0 +1,18 @@
+{
+    "name": "catzedonis/fmp",
+    "require-dev": {
+        "twbs/bootstrap": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Catzedonis\\Fmp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christine Zedonis",
+            "email": "czedonis@gmail.com"
+        }
+    ],
+    "require": {}
+}
